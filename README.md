@@ -25,7 +25,7 @@
 
 -메인 화면
 
- <img src="https://user-images.githubusercontent.com/83719746/121414757-f9098380-c9a1-11eb-931a-4bae23bb8f51.png" margin: auto > 
+ <center> <img src="https://user-images.githubusercontent.com/83719746/121414757-f9098380-c9a1-11eb-931a-4bae23bb8f51.png"  >  </center>
 
 -상의 하의 선택 화면
 
