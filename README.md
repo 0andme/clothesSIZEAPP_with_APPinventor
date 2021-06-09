@@ -25,7 +25,7 @@
 
 -메인 화면
 
-<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121415848-1b4fd100-c9a3-11eb-9610-dea96df07b5a.jpg"  > </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121415848-1b4fd100-c9a3-11eb-9610-dea96df07b5a.jpg" width=200px > </p>
 
 -상의 하의 선택 화면
 
@@ -34,8 +34,8 @@
 
 -옷 브랜드 선택 화면
 
-<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121415622-e8a5d880-c9a2-11eb-989e-b7b040892683.png"  ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121415622-e8a5d880-c9a2-11eb-989e-b7b040892683.png" width=200px ></p>
 
 -블루투스 연결 및 치수 오차 출력 화면
 <p align="center"><img src="https://user-images.githubusercontent.com/83719746/121415424-aed4d200-c9a2-11eb-9932-45125b83fa50.png"  width=200px  ></p>
-<p align="center"><img src=""   ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/83719746/121416028-4d613300-c9a3-11eb-900f-49e25fdc364f.png"  width=200px ></p>
